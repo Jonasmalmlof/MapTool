@@ -1,0 +1,238 @@
+<MapInfo=
+<MapName=Numenor>
+>
+<ItemTypeList=
+<ItemType=
+<Name="Road">
+<Geometry="Line">
+<Color=clRed>
+>
+<ItemType=
+<Name="River">
+<Geometry="Line">
+<Color=clBlue>
+>
+<ItemType=
+<Name="Path">
+<Geometry="Curve">
+<Color=clRed>
+>
+<ItemType=
+<Name="Mountain">
+<Geometry="Area">
+<Color=clRed>
+>
+<ItemType=
+<Name="Land">
+<Geometry="Area">
+<Color=clTeal>
+>
+<ItemType=
+<Name="City">
+<Geometry="Point">
+<Color=$00004080>
+>
+<ItemType=
+<Name="Bay">
+<Geometry="Area">
+<Color=clBlue>
+>
+>
+<ItemList=
+<Item=
+<ItemName="Armenelos">
+<ItemType="City">
+<ItemPoints=679,594>
+<ItemWidth=51>
+<ItemDesc="The mighty city in the central regions of Númenor, where the island's Kings dwelt">
+>
+<Item=
+<ItemName="Aldalonde">
+<ItemType="City">
+<ItemPoints=368,560>
+<ItemWidth=39>
+<ItemDesc="Adalonde is a...">
+>
+<Item=
+<ItemName="Andúnië">
+<ItemType="City">
+<ItemPoints=233,351>
+<ItemWidth=47>
+<ItemDesc="An important city and port in the Andustar region of western Númenor. The Lords of Andúnië were the ancestors of the Kings of the Dúnedain in Middle-earth.">
+>
+<Item=
+<ItemName="Ondosto">
+<ItemType="City">
+<ItemPoints=452,313>
+<ItemWidth=77>
+<ItemDesc="A city in the southern parts of the Forostar on the island of Númenor, on the road that ran westward out of Arandor to Andúnië. Its name seems to mean 'stone fortress'.">
+>
+<Item=
+<ItemName="White House Of Erendis">
+<ItemType="City">
+<ItemPoints=504,707>
+<ItemWidth=82>
+<ItemDesc="A house that stood in the Emerië region of the Mittalmar of Númenor. It was built for Erendis as a gift by Tar-Meneldur, to mark her betrothal to his son Aldarion. Aldarion spent many years away from Númenor in his ships, and the White House became a sanctuary for his wife Erendis, and their daughter, who would become Queen Tar-Ancalimë">
+>
+<Item=
+<ItemName="Sorontil">
+<ItemType="Mountain">
+<ItemPoints=527,226,540,215,557,198,565,180,576,188,585,165,589,157,598,168,606,163,612,139,620,138,627,155,641,118,656,132,672,103,689,114,704,95,721,110,745,109,755,119,761,148,754,163,731,149,721,166,718,185,708,201,683,218,655,233,630,236,580,235,541,241>
+<ItemWidth=55>
+<ItemDesc="In all the histories and geographies of the island of Númenor, only two mountains are named. The first was the famous Meneltarma, the Pillar of Heaven that stood in the central highlands. The other was far to the north, near the island's North Cape, with its eastern flanks forming sheer sea-cliffs. That was Sorontil, the peak of the Forostar">
+>
+<Item=
+<ItemName="Tol Vinen">
+<ItemType="City">
+<ItemPoints=866,534>
+<ItemWidth=65>
+<ItemDesc="No description available. We test ; semicolon (one) then 2 ;; next is three ;;;">
+>
+<Item=
+<ItemName="Nindamos">
+<ItemType="City">
+<ItemPoints=669,828>
+<ItemWidth=55>
+<ItemDesc="A large fishing village located on the southern shores of Númenor among the marshlands at the mouth of the River Siril. Nindamos was the largest of the many small villages dotted throughout the Hyarnustar region of the island">
+>
+<Item=
+<ItemName="Rómenna">
+<ItemType="City">
+<ItemPoints=838,614>
+<ItemWidth=91>
+<ItemDesc="The royal haven of Númenor. A city and important port on the eastern coasts of Númenor. It was included in the royal region known as Arandor, the Kingsland">
+>
+<Item=
+<ItemName="Bay of Eldana">
+<ItemType="Bay">
+<ItemPoints=62,753,62,489,107,474,128,484,146,491,158,478,163,484,141,505,142,520,159,528,193,530,224,509,242,523,273,520,309,509,324,520,346,582,343,596,333,605,317,619,309,643,316,679,306,709,293,733,278,742,263,763,244,769,209,748,190,744,173,749,163,762,140,761,122,771,114,780>
+<ItemWidth=10>
+<ItemDesc="The great western bight of Númenor. The wide bay in the western part of Númenor, between the promontories of Andustar to the north and Hyarnustar to the south. It was fed by the River Nunduinë, and its mouth was more than a hundred miles across, making it by far the largest bay in the shores of Númenor">
+>
+<Item=
+<ItemName="Bay of Rovenna">
+<ItemType="Bay">
+<ItemPoints=1204,699,1127,738,1112,725,1097,722,1050,723,1031,722,1017,713,1010,682,997,666,955,657,936,639,933,618,925,604,903,598,870,603,843,588,834,568,818,556,798,551,810,547,833,559,869,567,888,561,908,565,932,580,948,591,963,587,974,568,993,550,1023,552,1036,540,1042,510,1044,476,1052,450,1075,435,1088,432,1095,420,1131,416,1204,478>
+<ItemWidth=10>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Bay of Anduine">
+<ItemType="Bay">
+<ItemPoints=58,365,86,364,101,345,117,339,138,350,162,340,180,339,193,347,203,338,212,324,204,316,188,318,184,311,176,318,151,322,137,305,140,287,108,289,58,340>
+<ItemWidth=60>
+<ItemDesc="The northernmost of the three bays that ran along the western coasts of the Andustar in Númenor. The greatest of the three, its shores were no more than a narrow shelf of land from which steep cliffs rose up. Beneath these cliffs at its eastern end was the famous haven of Andúnië. There are suggestions that there may have been a second haven on this bay, too, named Almaida">
+>
+<Item=
+<ItemName="Forostar">
+<ItemType="Land">
+<ItemPoints=497,317,492,294,505,281,513,273,503,261,474,282,457,276,480,252,502,240,520,221,535,190,547,192,561,156,627,115,647,85,673,91,711,81,741,62,760,65,807,47,820,72,808,87,784,87,759,97,763,139,781,162,789,208,770,241,746,260,767,297,776,332,633,498,624,492,617,475,603,459,570,443,544,421,530,379,513,350,493,334>
+<ItemWidth=60>
+<ItemDesc="The northern promontory of Númenor, a land of rocks, cliffs and high moors. It stretched some two hundred miles from its southern borders with the Mittalmar to its North Cape. The great road from Rómenna to Andúnië passed through its southern parts, at the place known as Ondosto">
+>
+<Item=
+<ItemName="Andustar">
+<ItemType="Land">
+<ItemPoints=156,400,154,421,127,431,108,449,112,468,132,470,143,484,161,466,172,486,150,503,149,519,163,516,190,519,224,499,250,516,318,499,334,510,343,532,367,528,397,536,413,551,458,537,507,513,543,503,602,497,581,477,561,467,536,451,523,430,506,384,488,362,465,347,448,351,423,342,412,323,413,292,400,281,374,280,353,290,340,319,322,332,304,330,271,307,253,282,218,270,182,281,157,280,144,302,156,318,188,299,190,309,211,303,224,327,208,339,203,359,167,346,138,360,114,348,92,374,110,386,141,378>
+<ItemWidth=60>
+<ItemDesc="The western promontory of Númenor, separated from the Hyarnustar to the south by the wide Bay of Eldanna.">
+>
+<Item=
+<ItemName="Orrostar">
+<ItemType="Land">
+<ItemPoints=780,337,641,502,662,521,684,549,712,561,752,539,770,530,801,521,815,521,830,530,840,507,853,499,869,498,883,502,897,513,902,531,897,547,918,558,933,571,943,578,957,578,983,545,1018,541,1033,512,1038,452,1053,432,1089,421,1087,385,1092,363,1062,326,1031,324,1012,322,979,348,946,343,930,368,917,373,898,352,827,358,793,349>
+<ItemWidth=60>
+<ItemDesc="The eastern promontory of Númenor, a roughly rectangular block of land some two hundred miles west to east that was surrounded by sea on all but its western side. A range of hills ran along its northern coast, and especially in its inland parts it held some of the most important farmlands of Númenor">
+>
+<Item=
+<ItemName="Hyarnustar">
+<ItemType="Land">
+<ItemPoints=326,687,306,734,287,749,275,765,263,774,240,779,212,760,194,752,180,755,173,767,162,771,147,767,135,776,125,780,125,788,136,810,129,821,133,855,123,869,108,874,84,871,81,876,85,890,66,900,66,910,82,914,87,944,101,965,111,967,129,944,148,948,166,935,181,935,191,980,201,1003,218,1011,239,999,259,1015,276,1017,290,998,302,994,322,1001,340,996,352,981,357,960,358,943,356,932,364,895,375,882,406,884,422,869,444,841,457,832,466,832,478,843,485,839,492,825,512,824,530,819,546,835,572,840,583,862,593,870,604,865,605,852,602,825,607,809,617,802,623,787,618,773,618,757,633,729,637,708,622,694,607,689,596,677,595,658,602,645,617,631,614,615,584,622,557,623,536,624,526,630,523,660,547,677,555,700,553,723,542,743,525,753,506,755,488,754,475,748,460,730,455,712,456,688,471,666,503,655,505,625,468,623,449,610,395,603,369,597,354,587,340,611,327,619,318,634,319,655>
+<ItemWidth=60>
+<ItemDesc="The southwestern of the five regions of Númenor, noted for its vineyards and fertile farmlands, although it became more mountainous in the far southwest">
+>
+<Item=
+<ItemName="Hyarrostar">
+<ItemType="Land">
+<ItemPoints=748,774,800,804,809,844,844,867,881,876,909,849,939,861,952,901,984,921,998,919,1039,938,1046,971,1071,981,1082,951,1099,950,1104,919,1091,884,1093,865,1126,854,1152,840,1154,814,1124,786,1118,747,1106,733,1089,735,1079,728,1040,734,1013,727,1001,709,995,676,947,661,929,646,923,613,906,604,885,610,876,644,853,660,827,658,804,646,793,631,748,606,712,612,684,638,677,712,654,741,645,772,653,796,675,789,703,808,714,828,725,794>
+<ItemWidth=10>
+<ItemDesc="The wide promontory that spread out to the south and east of Númenor, and in fact contained its easternmost point. Along its southern shores were wide beaches of white sands, and on its western borders, where the shorelands were interrupted by the mouths of the River Siril, stood the township of Nindamos. The Hyarrostar was most famous for its trees, and it held great plantations that provided much of the wood used by Númenor's shipwrights">
+>
+<Item=
+<ItemName="The North Cap">
+<ItemType="Bay">
+<ItemPoints=890,65,1061,151,1061,317,1033,315,1015,309,992,325,978,337,951,335,935,339,927,356,918,358,908,344,894,343,841,350,798,341,783,320,773,293,759,265,768,254,787,240,798,210,795,187,793,167,783,148,769,120,773,104,783,97,808,97,820,90,828,71>
+<ItemWidth=200>
+<ItemDesc="The northern headland of the island of Númenor, part of a craggy landscape of rocks and cliffs in the region known as the Forostar or Northlands">
+>
+<Item=
+<ItemName="Meneltarma">
+<ItemType="Mountain">
+<ItemPoints=458,595,399,588,445,574,461,567,478,546,495,547,513,525,531,533,555,512,581,528,611,508,632,507,665,539,685,564,710,581,704,586,659,564,627,561,623,598,586,607,546,602,513,610,481,609>
+<ItemWidth=160>
+<ItemDesc="Mountain in the middle of Numenor">
+>
+<Item=
+<ItemName="Siril">
+<ItemType="River">
+<ItemPoints=636,573,630,601,624,617,623,636,606,655,603,671,613,685,631,692,642,707,641,725,629,746,624,767,628,786,623,804,624,821,624,848>
+<ItemWidth=10>
+<ItemDesc="The river Seril...">
+>
+<Item=
+<ItemName="Nunduine">
+<ItemType="River">
+<ItemPoints=353,581,368,580,386,577,407,577,428,567,445,566,459,558,470,556>
+<ItemWidth=10>
+<ItemDesc="The river Nunduine...">
+>
+<Item=
+<ItemName="Road To Anduine">
+<ItemType="Path">
+<ItemPoints=703,598,709,578,681,557,629,529,609,492,588,466,565,455,540,437,523,399,513,376,488,352,458,339,402,347,388,356,366,363,341,361,310,367,280,366,249,361>
+<ItemWidth=10>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Road To Aldalonde">
+<ItemType="Path">
+<ItemPoints=368,584,410,596,461,604,478,616,514,618,544,614,587,614,630,602,662,603>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Road to White House">
+<ItemType="Path">
+<ItemPoints=519,618,513,646,514,697>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Road To Nindamos">
+<ItemType="Path">
+<ItemPoints=674,625,670,681,663,717,641,749,640,791,652,820>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Road To Romenna">
+<ItemType="Path">
+<ItemPoints=843,626,817,629,795,621,779,612,749,595,723,598,701,596>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Road To Tol Vinen">
+<ItemType="Path">
+<ItemPoints=856,546,840,542,820,529,794,531,778,542,761,545,734,559,713,575>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Road To Sorontil">
+<ItemType="Path">
+<ItemPoints=734,146,731,176,722,201,696,218,666,237,622,246,583,246,551,255,522,260,495,278,468,303>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+>

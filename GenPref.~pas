@@ -1,0 +1,137 @@
+unit GenPref;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, StdCtrls, Buttons, Math,
+
+  MapItem;
+
+type
+  TPrefForm = class(TForm)
+    HighLight: TGroupBox;
+    HighLightSpeed: TEdit;
+    Label1: TLabel;
+    Label2: TLabel;
+    ButtonOk: TBitBtn;
+    ButtonCancel: TBitBtn;
+    NiftyCircel: TCheckBox;
+    NiftyLine: TCheckBox;
+    NiftyMapInCen: TCheckBox;
+    NiftyCircleWdt: TComboBox;
+    Label3: TLabel;
+    GroupBox1: TGroupBox;
+    NiftyPointWdt: TComboBox;
+    Label4: TLabel;
+    Label5: TLabel;
+    NiftyPointTurns: TComboBox;
+    Label6: TLabel;
+    Label7: TLabel;
+    GroupBox2: TGroupBox;
+    NiftyAreaRotate: TCheckBox;
+    NiftyAreaRand: TCheckBox;
+    NiftyAreaIn: TCheckBox;
+    ButtonHint: TBitBtn;
+    NiftyPolyOn: TCheckBox;
+    procedure ButtonOkClick(Sender: TObject);
+    procedure FormCreate(Sender: TObject);
+    procedure ButtonCancelClick(Sender: TObject);
+    procedure ButtonHintClick(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    procedure PrefInit (const PrefRec : TNiftyRec);
+    procedure PrefUpdate (var PrefRec : TNiftyRec);
+
+
+    { Public declarations }
+  end;
+
+var
+  PrefForm: TPrefForm;
+  bOK : boolean;
+
+implementation
+
+{$R *.dfm}
+
+//------------------------------------------------------------------------------
+// Initiate form
+//
+procedure TPrefForm.FormCreate(Sender: TObject);
+begin
+  bOK := false;
+  Self.ShowHint := true;
+
+  if Self.ShowHint then
+    ButtonHint.Caption := 'Off'
+  else
+    ButtonHint.Caption := 'On'
+
+end;
+//------------------------------------------------------------------------------
+// Initiate alla data
+//
+procedure TPrefForm.PrefInit(const PrefRec : TNiftyRec);
+begin
+  Self.HighLightSpeed.Text   := IntToStr(PrefRec.LineSpeed);
+  Self.NiftyCircel.Checked   := PrefRec.LineCircleOn;
+  Self.NiftyLine.Checked     := PrefRec.LineOn;
+  Self.NiftyMapInCen.Checked := PrefRec.LineMapCenOn;
+  Self.NiftyCircleWdt.Text   := IntToStr(PrefRec.LineCircleWdt);
+
+  Self.NiftyPointWdt.text    := IntToStr(PrefRec.PointWdt);
+  Self.NiftyPointTurns.text  := IntToStr(PrefRec.PointTurns);
+
+  Self.NiftyAreaRotate.Checked := PrefRec.AreaRotateOn;
+  Self.NiftyAreaRand.Checked   := PrefRec.AreaRandOn;
+  Self.NiftyAreaIn.Checked     := PrefRec.AreaScaleInOn;
+  Self.NiftyPolyOn.Checked     := PrefRec.AreaPolyOn;
+end;
+//------------------------------------------------------------------------------
+// Return all data
+//
+procedure TPrefForm.PrefUpdate(var PrefRec : TNiftyRec);
+begin
+  if bOK then
+    begin
+      PrefRec.LineSpeed     := StrToInt(Self.HighLightSpeed.Text);
+      PrefRec.LineCircleOn  := Self.NiftyCircel.Checked;
+      PrefRec.LineOn        := Self.NiftyLine.Checked;
+      PrefRec.LineMapCenOn  := Self.NiftyMapInCen.Checked;
+      PrefRec.LineCircleWdt := Max(1, StrToInt(Self.NiftyCircleWdt.Text));
+
+      PrefRec.PointWdt   := Max(1,StrToInt(Self.NiftyPointWdt.Text));
+      PrefRec.PointTurns := Max(1,StrToInt(Self.NiftyPointTurns.Text));
+
+      PrefRec.AreaRotateOn  := Self.NiftyAreaRotate.Checked;
+      PrefRec.AreaRandOn    := Self.NiftyAreaRand.Checked;
+      PrefRec.AreaScaleInOn := Self.NiftyAreaIn.Checked;
+      PrefRec.AreaPolyOn    := Self.NiftyPolyOn.Checked;
+    end;
+end;
+
+procedure TPrefForm.ButtonOkClick(Sender: TObject);
+begin
+  bOK := true;
+  Self.Close;
+end;
+
+
+procedure TPrefForm.ButtonCancelClick(Sender: TObject);
+begin
+  bOK := false;
+  Self.Close;
+end;
+
+procedure TPrefForm.ButtonHintClick(Sender: TObject);
+begin
+  Self.ShowHint := not Self.ShowHint;
+  if Self.ShowHint then
+    ButtonHint.Caption := 'Off'
+  else
+    ButtonHint.Caption := 'On'
+end;
+
+end.

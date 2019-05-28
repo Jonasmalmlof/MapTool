@@ -1,0 +1,716 @@
+<MapInfo=
+<MapName=Middle Earth>
+>
+<ItemTypeList=
+<ItemType=
+<Name="Village">
+<Geometry="Point">
+<Color=clRed>
+>
+<ItemType=
+<Name="TravelN">
+<Geometry="Curve">
+<Color=clRed>
+>
+<ItemType=
+<Name="Travel">
+<Geometry="Line">
+<Color=clRed>
+>
+<ItemType=
+<Name="River">
+<Geometry="Line">
+<Color=clRed>
+>
+<ItemType=
+<Name="Mountain">
+<Geometry="Area">
+<Color=clRed>
+>
+<ItemType=
+<Name="Land">
+<Geometry="Area">
+<Color=clRed>
+>
+<ItemType=
+<Name="Island">
+<Geometry="Area">
+<Color=clRed>
+>
+<ItemType=
+<Name="House">
+<Geometry="Point">
+<Color=clRed>
+>
+<ItemType=
+<Name="Great River">
+<Geometry="Curve">
+<Color=clRed>
+>
+<ItemType=
+<Name="Forrest">
+<Geometry="Area">
+<Color=clRed>
+>
+<ItemType=
+<Name="Creec">
+<Geometry="Curve">
+<Color=clRed>
+>
+<ItemType=
+<Name="City">
+<Geometry="Point">
+<Color=clRed>
+>
+<ItemType=
+<Name="Bridge">
+<Geometry="Point">
+<Color=clRed>
+>
+>
+<ItemList=
+<Item=
+<ItemName="Hobbiton">
+<ItemType="Village">
+<ItemPoints=1081,958>
+<ItemWidth=30>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Bree">
+<ItemType="Village">
+<ItemPoints=1377,965>
+<ItemWidth=30>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Mithlond">
+<ItemType="Village">
+<ItemPoints=734,966>
+<ItemWidth=30>
+<ItemDesc="(Grey Havens)">
+>
+<Item=
+<ItemName="Mordor">
+<ItemType="Land">
+<ItemPoints=4098,2015,3868,1987,3797,1997,3765,2045,3713,2058,3683,2033,3608,2062,3421,2102,3407,2080,3217,2095,3120,2082,2965,2022,2880,2085,2862,2147,2905,2377,2907,2485,2890,2637,2928,2843,2955,2892,3032,2900,3157,2890,3312,2877,3322,2905,3408,2900,3562,2868,3732,2863,3908,2785,4080,2587>
+<ItemWidth=20>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Minath Tirith">
+<ItemType="City">
+<ItemPoints=2794,2372>
+<ItemWidth=50>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Isengard">
+<ItemType="City">
+<ItemPoints=1899,1844>
+<ItemWidth=40>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Fords of Isen">
+<ItemType="Bridge">
+<ItemPoints=1835,1998>
+<ItemWidth=30>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Tol Fallas">
+<ItemType="Island">
+<ItemPoints=2275,2822,2286,2823,2298,2828,2308,2824,2326,2826,2331,2849,2319,2861,2316,2878,2306,2881,2298,2901,2303,2919,2281,2921,2268,2915,2252,2919,2208,2916,2206,2899,2245,2863,2249,2845,2261,2836,2265,2826>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Pinnath Gelin">
+<ItemType="Mountain">
+<ItemPoints=1633,2437,1685,2438,1798,2425,1877,2387,1942,2400,1980,2400,2037,2452,1988,2478,1885,2487,1762,2515,1672,2520,1597,2513,1518,2492,1572,2462,1613,2460>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Linhir">
+<ItemType="Village">
+<ItemPoints=2363,2641>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Dol Amroch">
+<ItemType="Mountain">
+<ItemPoints=2045,2599,2056,2597,2077,2641,2033,2647>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Pinnornost">
+<ItemType="Village">
+<ItemPoints=1717,2339>
+<ItemWidth=42>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Gap of Rohan">
+<ItemType="Village">
+<ItemPoints=1872,1983>
+<ItemWidth=92>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Dol Baran">
+<ItemType="Mountain">
+<ItemPoints=1842,1915,1889,1930,1845,1946,1808,1942>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Adorn">
+<ItemType="River">
+<ItemPoints=1910,2120,1867,2101,1822,2092,1793,2071,1755,2046,1742,2047,1721,2030,1665,2035,1643,2021,1622,2016>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Day 01">
+<ItemType="TravelN">
+<ItemPoints=1071,957,1073,972,1083,994,1095,995,1103,1006,1130,999,1139,1010,1154,1016,1166,1027,1179,1035,1191,1030,1191,1016,1210,1011>
+<ItemWidth=30>
+<ItemDesc="Frodo Starts his journy">
+>
+<Item=
+<ItemName="Day 02">
+<ItemType="TravelN">
+<ItemPoints=1204,1011,1223,1009,1230,997,1253,978,1272,992,1282,1009,1306,1027,1316,1023,1323,1027,1331,1022,1325,1007,1337,1007,1340,1023,1348,1022,1355,1015,1343,1002,1338,997,1347,967,1361,967,1375,967>
+<ItemWidth=30>
+<ItemDesc="Frodo and company flees through the forrest and gets lost. Meets Bobadil who helps them get on with the journy. They get lost in Barrow Downs also, and get help again. Finnaly they reach Bree.">
+>
+<Item=
+<ItemName="Day 03">
+<ItemType="TravelN">
+<ItemPoints=1377,968,1383,940,1387,919,1397,919,1407,917,1415,924,1428,924,1441,935,1454,934,1463,939,1476,937,1486,943,1502,939,1514,927,1529,924,1537,941,1557,947,1546,961,1554,977,1569,984,1590,992>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Day 04">
+<ItemType="TravelN">
+<ItemPoints=1587,991,1602,996,1623,998,1636,1007,1656,1009,1684,1018,1722,1020,1763,1014,1792,985,1804,968,1817,953,1813,933,1836,931>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Day 05">
+<ItemType="TravelN">
+<ItemPoints=1835,930,1852,924,1862,907,1879,891,1908,881,1936,891,1956,914,1974,927,1980,944,1997,945,2034,952,2060,947,2070,928>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Day 06">
+<ItemType="TravelN">
+<ItemPoints=2075,924,2068,949,2076,959,2099,972,2096,987,2105,999,2093,1005,2091,1020,2081,1036,2083,1048,2094,1045,2100,1048,2093,1059,2092,1071,2082,1084,2076,1111,2063,1121,2059,1140,2041,1149,2022,1149,2004,1157,1993,1175,1976,1178,1954,1193>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Day 07">
+<ItemType="TravelN">
+<ItemPoints=1983,1196,1969,1216,1966,1232,1988,1255,1987,1267,1997,1277,1985,1286,2004,1295,2032,1290,2073,1288>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Day 08">
+<ItemType="TravelN">
+<ItemPoints=2073,1287,2007,1297,1977,1312,1975,1323,1996,1333,2014,1356,1998,1361,1987,1370,1966,1372,1940,1385,1949,1389,1963,1384,1981,1389,2002,1387>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Day 09">
+<ItemType="TravelN">
+<ItemPoints=2006,1386,2018,1397,2025,1382,2038,1399,2043,1370,2064,1392,2058,1362,2073,1358>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Day 10">
+<ItemType="TravelN">
+<ItemPoints=2070,1360,2070,1358,2078,1346,2093,1349,2110,1342,2116,1358,2119,1374,2136,1388,2157,1404,2171,1429,2181,1427,2194,1426,2213,1414,2227,1411,2242,1414,2253,1412,2264,1420,2266,1433,2273,1449>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Day 11">
+<ItemType="TravelN">
+<ItemPoints=2274,1449,2294,1479,2313,1483,2320,1505,2331,1517,2336,1541,2355,1553,2395,1582,2425,1604,2455,1610,2479,1613,2489,1634,2468,1662,2466,1683,2485,1707,2511,1700,2533,1690,2547,1695,2560,1720,2549,1737,2529,1756,2531,1778,2567,1790,2585,1813>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Day 12">
+<ItemType="TravelN">
+<ItemPoints=2585,1812,2581,1838,2572,1858,2552,1905,2554,1938,2562,1969,2568,2001,2557,2014,2527,2006,2524,2024,2538,2017,2542,2033,2555,2021,2561,2041,2579,2059,2604,2056>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Day 13">
+<ItemType="TravelN">
+<ItemPoints=2600,2057,2625,2058,2649,2049,2666,2044,2678,2027,2676,2011,2678,2000,2689,1994,2679,1983,2691,1979,2693,1967,2697,1976,2704,1970,2699,1958,2710,1964,2707,1954,2712,1945,2722,1944,2732,1952,2744,1962,2765,1968,2783,1971,2787,1984,2784,2001,2792,2011,2819,2008,2838,2017,2869,2021,2906,2011,2936,2018,2943,2032>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Day 14">
+<ItemType="TravelN">
+<ItemPoints=2941,2034,2931,2029,2916,2034,2899,2050,2886,2062,2862,2087,2854,2108,2863,2142,2862,2164,2866,2194,2862,2222,2872,2243,2870,2257,2874,2283,2884,2314,2894,2352,2917,2354>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Day 15">
+<ItemType="TravelN">
+<ItemPoints=2914,2354,2938,2341,2926,2334,2937,2323,2953,2321,2954,2339,2967,2341,2987,2342,2995,2337,3016,2336,3014,2323,3014,2312,2994,2289,2984,2262,2986,2254,2976,2242,2972,2222,2965,2213,2967,2196,2974,2180,2992,2172,3009,2168,3029,2155,3054,2155,3073,2162,3086,2163,3111,2173,3140,2180,3153,2191,3163,2197,3161,2215,3149,2229>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Day 12 A">
+<ItemType="TravelN">
+<ItemPoints=2577,2058,2553,2057,2532,2038,2513,2041,2484,2023,2455,1990,2405,1957,2379,1941,2363,1921,2357,1890,2331,1853,2303,1798,2280,1781,2240,1778,2211,1776,2205,1767>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Day 12 A1">
+<ItemType="TravelN">
+<ItemPoints=2208,1770,2193,1778,2175,1776,2155,1767,2139,1765,2124,1777,2112,1773,2102,1784,2088,1777,2068,1786,2056,1778,2044,1787,2035,1801,2020,1803,2008,1819,1997,1825,1981,1833,1959,1827,1948,1837,1903,1838>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Day 12 A2">
+<ItemType="TravelN">
+<ItemPoints=1899,1850,1909,1878,1910,1903,1909,1932,1907,1956,1910,1975,1931,1992,1959,2003,1983,2007,2012,2022,2044,2029,2066,2036,2091,2041,2122,2054,2144,2064,2170,2077>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Day 12 B">
+<ItemType="TravelN">
+<ItemPoints=2239,1777,2237,1799,2240,1826,2256,1849,2260,1871,2252,1887,2256,1904,2253,1918,2246,1932,2236,1950,2221,1958,2219,1978,2203,1985,2183,1993,2184,2017,2175,2042,2167,2074>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Day 12 B1">
+<ItemType="TravelN">
+<ItemPoints=2167,2079,2158,2087,2157,2105,2143,2116,2123,2117,2138,2129,2121,2133,2126,2142,2107,2137,2117,2153,2098,2148,2109,2166,2113,2189,2106,2208,2104,2228,2119,2262,2135,2270>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Day 12 B2">
+<ItemType="TravelN">
+<ItemPoints=2138,2268,2147,2295,2147,2312,2157,2323,2172,2337,2204,2339,2223,2370,2246,2384,2265,2402,2277,2410,2286,2422,2301,2442,2319,2454,2349,2458,2381,2466,2392,2473,2414,2486,2421,2528,2433,2586,2443,2643,2483,2651,2529,2654,2556,2648,2574,2651,2593,2649,2637,2662,2666,2672>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Day 12 B3">
+<ItemType="TravelN">
+<ItemPoints=2680,2670,2699,2671,2722,2659,2743,2643,2761,2627,2774,2610,2787,2592,2797,2571,2807,2550,2810,2529,2812,2508,2810,2483,2797,2454,2794,2427,2799,2410,2778,2391,2780,2370>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Day 12 C">
+<ItemType="TravelN">
+<ItemPoints=2164,2079,2184,2079,2200,2099,2226,2117,2227,2146,2237,2174,2256,2199,2294,2207,2335,2222,2375,2233,2384,2239,2407,2241,2411,2251,2444,2249,2453,2256,2481,2264,2513,2279,2542,2291,2576,2300,2614,2306,2657,2309,2693,2317,2710,2330,2721,2328,2730,2332,2740,2326,2764,2329,2778,2333,2780,2347,2783,2356,2784,2369>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Day 12 C 2">
+<ItemType="TravelN">
+<ItemPoints=2781,2368,2807,2373,2837,2372,2850,2368,2870,2356,2871,2330,2863,2300,2859,2272,2855,2247,2853,2221,2858,2201,2855,2175,2856,2149,2853,2127,2849,2102,2856,2086,2873,2068,2898,2042,2927,2023,2943,2033,2944,2046>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Helm's Deep">
+<ItemType="Mountain">
+<ItemPoints=1949,1997,1960,1999,1992,2011,2024,2029,2088,2056,2039,2056,2016,2046,2006,2057,1942,2056,1902,2049,1856,2039,1878,2031,1901,2011,1915,2013,1921,2009,1941,2008>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Emun Uil">
+<ItemType="Mountain">
+<ItemPoints=953,502,1087,537,1096,552,1065,549,1107,574,1074,576,1076,586,1115,588,1148,605,1172,627,1161,631,1136,635,1147,646,1137,652,1089,652,1064,668,1021,663,987,671,912,669,913,654,886,654,878,644,886,626,900,614,840,615,834,606,855,590,819,583,822,573,866,550,822,544,821,538,901,502,916,501,936,507>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Lhun">
+<ItemType="River">
+<ItemPoints=678,317,692,331,686,351,705,366,749,358,766,378,764,393,773,404,784,442,782,477,767,499,760,519,766,537,776,559,779,575,797,606,809,639,814,681,818,703,821,730,825,747,828,769,820,788,811,809,795,837,766,862,743,879,727,894,718,921,713,954,700,975>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Annuduin">
+<ItemType="River">
+<ItemPoints=562,590,596,596,609,596,631,587,643,580,667,575,685,562,703,570,714,567,722,572,754,570,779,576>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Anduin">
+<ItemType="Great River">
+<ItemPoints=2283,497,2312,508,2307,544,2303,572,2302,598,2321,620,2321,646,2332,667,2341,724,2342,760,2359,792,2361,830,2377,850,2422,947,2424,999,2438,1036,2437,1070,2440,1100,2424,1142,2434,1178,2424,1208,2423,1245,2406,1299,2362,1350,2360,1383,2315,1457,2336,1530,2371,1561,2411,1595,2454,1610,2480,1612,2491,1636,2465,1671,2475,1700,2502,1706,2534,1690,2558,1703,2554,1734,2533,1753,2532,1777,2558,1784,2578,1796,2586,1834,2564,1883,2557,1937,2570,1996,2562,2032,2581,2052,2596,2069,2621,2126,2654,2177,2699,2207,2757,2224,2791,2229,2825,2247,2837,2279,2847,2319,2850,2361,2837,2391,2809,2406,2800,2436,2809,2464,2818,2496,2817,2534,2807,2572,2779,2617,2731,2664,2682,2685,2620,2707,2499,2745,2389,2787>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Aglarond">
+<ItemType="City">
+<ItemPoints=1974,2064>
+<ItemWidth=40>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Edoras">
+<ItemType="City">
+<ItemPoints=2171,2078>
+<ItemWidth=40>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Anordrict">
+<ItemType="City">
+<ItemPoints=2317,2069>
+<ItemWidth=25>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Imdorad">
+<ItemType="City">
+<ItemPoints=2499,2206>
+<ItemWidth=27>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Firenwood">
+<ItemType="Forrest">
+<ItemPoints=2418,2196,2438,2192,2452,2204,2461,2226,2451,2232,2450,2246,2447,2263,2436,2253,2420,2267,2401,2268,2377,2243,2383,2229,2397,2219,2419,2212,2414,2203>
+<ItemWidth=40>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Drudan Forrest">
+<ItemType="Forrest">
+<ItemPoints=2719,2289,2733,2292,2745,2299,2751,2294,2759,2297,2767,2309,2776,2317,2777,2341,2720,2337,2706,2340,2692,2328,2680,2319,2681,2302,2692,2293,2706,2293,2713,2294>
+<ItemWidth=40>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Fangorn">
+<ItemType="Forrest">
+<ItemPoints=2078,1599,2058,1588,2066,1578,2108,1582,2125,1598,2186,1608,2208,1616,2227,1610,2228,1649,2255,1695,2248,1721,2238,1763,2226,1775,2213,1812,2180,1816,2147,1823,2075,1817,2036,1840,2007,1815,1982,1775,2000,1765,2020,1765,1999,1743,2005,1730,2033,1721,2027,1702,2041,1683,2037,1665,2082,1665,2056,1651,2061,1638,2077,1638,2056,1624,2044,1608>
+<ItemWidth=40>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Lories">
+<ItemType="Forrest">
+<ItemPoints=2199,1396,2270,1396,2309,1405,2314,1427,2307,1457,2293,1474,2300,1488,2310,1496,2308,1519,2272,1520,2220,1504,2169,1480,2165,1454,2187,1447,2195,1440,2183,1429,2178,1411>
+<ItemWidth=40>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Mirkwood">
+<ItemType="Forrest">
+<ItemPoints=2422,577,2503,543,2619,541,2710,539,2762,562,2763,613,2813,654,2836,693,2851,730,2891,773,2827,777,2834,789,2904,801,2947,808,2946,826,2921,834,2924,857,2937,886,2935,978,2873,1037,2884,1070,2877,1103,2907,1150,2897,1178,2799,1173,2773,1201,2737,1220,2757,1240,2746,1277,2844,1257,2876,1273,2874,1326,2814,1364,2823,1399,2815,1478,2760,1498,2667,1523,2563,1503,2503,1468,2460,1433,2472,1410,2512,1423,2523,1402,2493,1378,2575,1297,2558,1273,2592,1250,2552,1155,2532,1055,2507,1043,2513,1003,2473,893,2502,848,2443,765,2392,667,2398,618>
+<ItemWidth=40>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Taur Romen">
+<ItemType="Forrest">
+<ItemPoints=4136,1163,4164,1160,4193,1176,4190,1206,4200,1220,4199,1247,4189,1291,4220,1314,4221,1344,4199,1376,4159,1393,4111,1351,4084,1299,4103,1261,4044,1283,4010,1317,3974,1336,3940,1321,3933,1274,3971,1263,3934,1211,4000,1191,4081,1176,4119,1180>
+<ItemWidth=40>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Trollshaws">
+<ItemType="Forrest">
+<ItemPoints=1947,883,1958,876,1972,885,1980,893,2009,897,2019,921,1978,943,1962,938,1950,950,1927,943,1880,938,1865,905,1900,895,1911,909,1933,904,1940,893>
+<ItemWidth=40>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Chetwood">
+<ItemType="Forrest">
+<ItemPoints=1389,902,1408,899,1424,908,1419,921,1413,939,1413,961,1403,973,1383,970,1385,958,1363,954,1363,936,1360,904>
+<ItemWidth=40>
+<ItemDesc="">
+>
+<Item=
+<ItemName="The Wood">
+<ItemType="Forrest">
+<ItemPoints=1226,963,1246,960,1299,973,1303,1007,1310,1018,1299,1031,1307,1058,1297,1082,1271,1068,1268,1050,1247,1038,1225,1037,1227,1019,1223,1001,1216,974>
+<ItemWidth=40>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Otchrad Forrest">
+<ItemType="Forrest">
+<ItemPoints=427,721,459,720,472,716,485,748,503,763,488,787,493,803,472,846,459,858,499,875,510,897,499,904,524,908,527,918,508,922,533,927,529,942,498,933,489,958,456,960,421,943,388,892,404,880,444,874,433,858,441,843,449,828,438,803,403,777,368,748,371,729,398,711>
+<ItemWidth=40>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Harlond">
+<ItemType="Village">
+<ItemPoints=524,1120>
+<ItemWidth=45>
+<ItemDesc="(Grey Havens)">
+>
+<Item=
+<ItemName="OverHill">
+<ItemType="Village">
+<ItemPoints=1079,938>
+<ItemWidth=30>
+<ItemDesc="(Grey Havens)">
+>
+<Item=
+<ItemName="Michel Delving">
+<ItemType="Village">
+<ItemPoints=980,989>
+<ItemWidth=30>
+<ItemDesc="(Grey Havens)">
+>
+<Item=
+<ItemName="Little Delving">
+<ItemType="Village">
+<ItemPoints=939,918>
+<ItemWidth=30>
+<ItemDesc="(Grey Havens)">
+>
+<Item=
+<ItemName="Nobottle">
+<ItemType="Village">
+<ItemPoints=960,879>
+<ItemWidth=30>
+<ItemDesc="(Grey Havens)">
+>
+<Item=
+<ItemName="Glenn">
+<ItemType="Village">
+<ItemPoints=1037,1089>
+<ItemWidth=30>
+<ItemDesc="(Grey Havens)">
+>
+<Item=
+<ItemName="Long Bottoms">
+<ItemType="Village">
+<ItemPoints=1252,1119>
+<ItemWidth=30>
+<ItemDesc="(Grey Havens)">
+>
+<Item=
+<ItemName="Springdell">
+<ItemType="Village">
+<ItemPoints=1097,1137>
+<ItemWidth=30>
+<ItemDesc="(Grey Havens)">
+>
+<Item=
+<ItemName="Hardbottle">
+<ItemType="Village">
+<ItemPoints=1026,1127>
+<ItemWidth=30>
+<ItemDesc="(Grey Havens)">
+>
+<Item=
+<ItemName="Digby">
+<ItemType="Village">
+<ItemPoints=1012,1169>
+<ItemWidth=30>
+<ItemDesc="(Grey Havens)">
+>
+<Item=
+<ItemName="Sackville">
+<ItemType="Village">
+<ItemPoints=965,1144>
+<ItemWidth=30>
+<ItemDesc="(Grey Havens)">
+>
+<Item=
+<ItemName="San Ford">
+<ItemType="Village">
+<ItemPoints=1280,1176>
+<ItemWidth=30>
+<ItemDesc="(Grey Havens)">
+>
+<Item=
+<ItemName="Batwater">
+<ItemType="Village">
+<ItemPoints=1156,971>
+<ItemWidth=30>
+<ItemDesc="(Grey Havens)">
+>
+<Item=
+<ItemName="Deep Hollow">
+<ItemType="Village">
+<ItemPoints=1199,1050>
+<ItemWidth=30>
+<ItemDesc="(Grey Havens)">
+>
+<Item=
+<ItemName="Scary">
+<ItemType="Village">
+<ItemPoints=1163,894>
+<ItemWidth=30>
+<ItemDesc="(Grey Havens)">
+>
+<Item=
+<ItemName="Sandy Brook">
+<ItemType="Creec">
+<ItemPoints=1188,1139,1191,1176,1184,1198,1204,1200,1210,1209,1224,1208,1237,1217>
+<ItemWidth=30>
+<ItemDesc="(Grey Havens)">
+>
+<Item=
+<ItemName="Shirebourne">
+<ItemType="Creec">
+<ItemPoints=1115,1056,1129,1071,1143,1074,1156,1083,1172,1082,1189,1081,1194,1071,1204,1062,1209,1053,1216,1044>
+<ItemWidth=30>
+<ItemDesc="(Grey Havens)">
+>
+<Item=
+<ItemName="Brandywine">
+<ItemType="Creec">
+<ItemPoints=1092,754,1119,760,1138,771,1182,753,1198,776,1210,799,1204,823,1210,846,1202,869,1207,890,1195,919,1196,986,1201,1008,1199,1024,1219,1046,1236,1042,1262,1055,1261,1071,1287,1093,1269,1118,1279,1148,1276,1181,1246,1209,1233,1224,1211,1234,1185,1257,1145,1279,1118,1295,1094,1301,1082,1316,1068,1329,1061,1354,1041,1376,1027,1384,1021,1397,999,1413,976,1408,936,1413,920,1409,898,1412,898,1446,874,1494,868,1532,859,1556>
+<ItemWidth=30>
+<ItemDesc="(Grey Havens)">
+>
+<Item=
+<ItemName="Gekion">
+<ItemType="Creec">
+<ItemPoints=439,622,426,625,411,631,398,627,379,644,384,662,373,679,345,684,323,719,324,751,305,775,309,816,288,856,273,872,278,905,268,929,276,944,300,956>
+<ItemWidth=30>
+<ItemDesc="(Grey Havens)">
+>
+<Item=
+<ItemName="Forlond">
+<ItemType="Village">
+<ItemPoints=321,947>
+<ItemWidth=45>
+<ItemDesc="(Grey Havens)">
+>
+<Item=
+<ItemName="Edhellond">
+<ItemType="Village">
+<ItemPoints=2115,2520>
+<ItemWidth=30>
+<ItemDesc="(Grey Havens)">
+>
+<Item=
+<ItemName="Calembell">
+<ItemType="Village">
+<ItemPoints=2279,2393>
+<ItemWidth=42>
+<ItemDesc="(Grey Havens)">
+>
+<Item=
+<ItemName="Ethring">
+<ItemType="Village">
+<ItemPoints=2364,2403>
+<ItemWidth=30>
+<ItemDesc="(Grey Havens)">
+>
+<Item=
+<ItemName="Pelargir">
+<ItemType="Village">
+<ItemPoints=2670,2663>
+<ItemWidth=39>
+<ItemDesc="(Grey Havens)">
+>
+<Item=
+<ItemName="Osgiltath">
+<ItemType="Village">
+<ItemPoints=2847,2367>
+<ItemWidth=30>
+<ItemDesc="(Grey Havens)">
+>
+<Item=
+<ItemName="Caras Galadhorn">
+<ItemType="Village">
+<ItemPoints=2274,1449>
+<ItemWidth=30>
+<ItemDesc="(Grey Havens)">
+>
+<Item=
+<ItemName="Esgaroth">
+<ItemType="Village">
+<ItemPoints=2892,696>
+<ItemWidth=30>
+<ItemDesc="(Grey Havens)">
+>
+<Item=
+<ItemName="Beorn">
+<ItemType="House">
+<ItemPoints=2419,821>
+<ItemWidth=30>
+<ItemDesc="(Grey Havens)">
+>
+<Item=
+<ItemName="Rivendel">
+<ItemType="Village">
+<ItemPoints=2072,921>
+<ItemWidth=30>
+<ItemDesc="(Grey Havens)">
+>
+<Item=
+<ItemName="Gantwich">
+<ItemType="Village">
+<ItemPoints=1103,1087>
+<ItemWidth=30>
+<ItemDesc="(Grey Havens)">
+>
+<Item=
+<ItemName="Undertowers">
+<ItemType="Village">
+<ItemPoints=931,1035>
+<ItemWidth=30>
+<ItemDesc="(Grey Havens)">
+>
+<Item=
+<ItemName="Needle Hale">
+<ItemType="Village">
+<ItemPoints=1006,881>
+<ItemWidth=30>
+<ItemDesc="(Grey Havens)">
+>
+<Item=
+<ItemName="Oartbarton">
+<ItemType="Village">
+<ItemPoints=1098,861>
+<ItemWidth=30>
+<ItemDesc="(Grey Havens)">
+>
+<Item=
+<ItemName="Dwaling">
+<ItemType="Village">
+<ItemPoints=1193,853>
+<ItemWidth=30>
+<ItemDesc="(Grey Havens)">
+>
+>

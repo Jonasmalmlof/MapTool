@@ -1,0 +1,496 @@
+<MapInfo=
+<MapName=Beleriand>
+>
+<ItemTypeList=
+<ItemType=
+<Name="Village">
+<Geometry="Point">
+<Color=clRed>
+>
+<ItemType=
+<Name="Road">
+<Geometry="Line">
+<Color=clRed>
+>
+<ItemType=
+<Name="RiverC">
+<Geometry="Curve">
+<Color=clRed>
+>
+<ItemType=
+<Name="River">
+<Geometry="Line">
+<Color=clRed>
+>
+<ItemType=
+<Name="Mountain">
+<Geometry="Area">
+<Color=clRed>
+>
+<ItemType=
+<Name="Land">
+<Geometry="Area">
+<Color=clRed>
+>
+<ItemType=
+<Name="Lake">
+<Geometry="Area">
+<Color=clRed>
+>
+<ItemType=
+<Name="Island">
+<Geometry="Area">
+<Color=clRed>
+>
+<ItemType=
+<Name="Forrest">
+<Geometry="Area">
+<Color=clRed>
+>
+<ItemType=
+<Name="City">
+<Geometry="Point">
+<Color=clRed>
+>
+<ItemType=
+<Name="Bridge">
+<Geometry="Point">
+<Color=clRed>
+>
+>
+<ItemList=
+<Item=
+<ItemName="Cirith Ninniach">
+<ItemType="City">
+<ItemPoints=914,477>
+<ItemWidth=30>
+<ItemDesc="Some Data">
+>
+<Item=
+<ItemName="Linaewen">
+<ItemType="Lake">
+<ItemPoints=820,856,670,821,654,801,668,787,763,792,844,778,856,795,948,792,983,804,956,826,882,830>
+<ItemWidth=80>
+<ItemDesc="Hello">
+>
+<Item=
+<ItemName="Crossing of Teiglin">
+<ItemType="Bridge">
+<ItemPoints=1576,1032>
+<ItemWidth=31>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Himring">
+<ItemType="Mountain">
+<ItemPoints=2798,710,2964,623,3131,606,3355,662,3291,721,3031,740,2887,739>
+<ItemWidth=10>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Amon Ereb">
+<ItemType="Mountain">
+<ItemPoints=2967,1930,3053,1908,3093,1881,3142,1902,3183,1906,3211,1906,3245,1918,3250,1936,3242,1949,3165,1955,3092,1957,3011,1955,2968,1940>
+<ItemWidth=10>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Tol Galen">
+<ItemType="Island">
+<ItemPoints=3795,2686,3842,2665,3895,2670,3867,2696>
+<ItemWidth=10>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Firth of Drengist">
+<ItemType="River">
+<ItemPoints=659,551,743,530,787,515,814,512,840,513,894,492>
+<ItemWidth=10>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Brithon">
+<ItemType="River">
+<ItemPoints=443,1559,478,1461,488,1432,497,1424,502,1405,517,1398,533,1377,559,1359,568,1338,580,1329,585,1316,586,1288,604,1270,609,1256>
+<ItemWidth=10>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Nenning">
+<ItemType="River">
+<ItemPoints=800,1684,849,1589,845,1523,856,1504,853,1472,860,1436,841,1399,838,1358,855,1338,859,1299,841,1269,845,1247,838,1199,818,1182,815,1158,801,1143,797,1118,783,1105,782,1082>
+<ItemWidth=10>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Narog">
+<ItemType="RiverC">
+<ItemPoints=1823,2086,1793,2064,1752,2053,1723,2028,1675,2021,1650,1990,1587,1962,1567,1962,1504,1931,1486,1859,1478,1834,1478,1786,1460,1729,1459,1675,1429,1588,1406,1553,1388,1510,1355,1484,1344,1470,1329,1454,1319,1428,1309,1413,1299,1376,1277,1342,1271,1259,1259,1223,1270,1185,1265,1145,1269,1115,1258,1083,1261,1039,1255,1007,1272,967,1271,931,1286,890,1264,864,1251,837,1218,834>
+<ItemWidth=10>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Adurant">
+<ItemType="River">
+<ItemPoints=3223,2761,3249,2742,3282,2747,3313,2733,3332,2733,3353,2723,3385,2727,3408,2720,3436,2723,3480,2702,3510,2708,3546,2696,3579,2696,3639,2683,3665,2681,3695,2691,3724,2683,3762,2694,3833,2664,3909,2666,3932,2643,3966,2621,3985,2577,4013,2561,4027,2540,4041,2531,4045,2510,4077,2494,4096,2454,4126,2437>
+<ItemWidth=10>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Duilwen">
+<ItemType="River">
+<ItemPoints=3196,2475,3226,2430,3255,2441,3272,2419,3300,2430,3343,2417,3381,2428,3450,2413,3562,2426,3598,2414,3744,2426,3820,2429,3874,2418,3936,2364,3951,2326,3972,2309,3983,2289,4025,2279>
+<ItemWidth=10>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Brilthor">
+<ItemType="River">
+<ItemPoints=3235,2242,3318,2223,3344,2210,3387,2206,3408,2212,3450,2205,3511,2221,3544,2216,3648,2248,3699,2229,3757,2195,3809,2196,3856,2189,3881,2168,3902,2140,3907,2110,3915,2096,3931,2092,3957,2080>
+<ItemWidth=10>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Legolin">
+<ItemType="River">
+<ItemPoints=3366,1993,3393,1991,3415,2001,3441,1991,3496,1993,3564,1982,3599,1996,3634,2004,3673,1988,3701,1990,3723,1981,3754,1991,3774,1980,3787,1982,3876,1895>
+<ItemWidth=10>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Thalos">
+<ItemType="River">
+<ItemPoints=3470,1815,3502,1796,3524,1792,3546,1798,3580,1787,3607,1790,3636,1782,3689,1755,3734,1760,3765,1747,3804,1713,3844,1709>
+<ItemWidth=10>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Ascar">
+<ItemType="River">
+<ItemPoints=3500,1624,3527,1594,3574,1588,3622,1552,3657,1554,3695,1530,3724,1527,3753,1515,3782,1514,3841,1485,3864,1464,3895,1462,3926,1454>
+<ItemWidth=10>
+<ItemDesc="">
+>
+<Item=
+<ItemName="L Gelion">
+<ItemType="River">
+<ItemPoints=3359,968,3334,949,3300,909,3259,891,3243,870,3246,834,3295,790,3304,761,3292,744,3246,735,3229,713,3198,712,3159,688>
+<ItemWidth=10>
+<ItemDesc="">
+>
+<Item=
+<ItemName="G Gelion">
+<ItemType="River">
+<ItemPoints=3360,954,3358,939,3367,925,3395,914,3409,898,3428,846,3449,832,3483,825,3538,772,3556,767,3575,760,3607,730,3647,720,3665,703,3685,699>
+<ItemWidth=10>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Helevorn">
+<ItemType="Lake">
+<ItemPoints=3783,725,3713,756,3678,816,3751,807>
+<ItemWidth=10>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Gelion">
+<ItemType="River">
+<ItemPoints=2932,3087,2950,3062,2979,3053,3002,3038,3047,3021,3073,3004,3084,2985,3115,2970,3152,2924,3181,2906,3194,2860,3217,2834,3230,2765,3200,2670,3206,2565,3191,2488,3192,2460,3195,2388,3207,2319,3223,2249,3222,2223,3237,2195,3236,2161,3246,2130,3284,2092,3286,2064,3394,1948,3452,1868,3469,1815,3458,1768,3496,1704,3503,1662,3502,1622,3487,1591,3501,1527,3486,1469,3493,1420,3458,1385,3439,1349,3416,1335,3388,1300,3375,1247,3345,1206,3329,1053,3375,1000,3361,955>
+<ItemWidth=10>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Mouths of Sirion">
+<ItemType="Land">
+<ItemPoints=1616,2432,1617,2398,1676,2321,1739,2280,1796,2274,1865,2303,1888,2326,1959,2341,2028,2378,2045,2420,2027,2490,1985,2545,1929,2553,1901,2595,1870,2569,1827,2459,1778,2429,1716,2419>
+<ItemWidth=10>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Isle of Balar">
+<ItemType="Island">
+<ItemPoints=1073,3074,999,3074,975,3014,1021,2848,1128,2801,1359,2761,1391,2797,1294,2975>
+<ItemWidth=10>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Ginglith">
+<ItemType="River">
+<ItemPoints=1277,1348,1171,1318,1152,1294,1176,1142,1149,1056,1128,1042,1118,980>
+<ItemWidth=10>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Lake Mithrin">
+<ItemType="Lake">
+<ItemPoints=1277,401,1293,393,1330,381,1349,385,1366,373,1447,355,1485,356,1484,383,1465,398,1405,407,1372,426,1338,418,1313,422,1278,414>
+<ItemWidth=10>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Amon Obel">
+<ItemType="Mountain">
+<ItemPoints=1685,1003,1716,975,1772,1002,1725,1013>
+<ItemWidth=10>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Amon Rudh">
+<ItemType="Mountain">
+<ItemPoints=1668,1294,1717,1265,1772,1290,1724,1305>
+<ItemWidth=10>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Ered Lomin">
+<ItemType="Mountain">
+<ItemPoints=606,513,553,431,481,272,524,265,567,218,552,202,501,226,458,212,414,123,395,50,415,3,574,2,610,46,688,5,879,4,881,53,810,83,753,150,689,204,779,380,819,418,879,421,910,472,820,493,757,502,704,511>
+<ItemWidth=10>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Mount Tarras">
+<ItemType="Mountain">
+<ItemPoints=215,995,259,1013,324,997,267,947>
+<ItemWidth=10>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Mount Rerir">
+<ItemType="Mountain">
+<ItemPoints=3660,725,3746,643,3841,712,3764,731>
+<ItemWidth=10>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Mount Dolmed">
+<ItemType="Mountain">
+<ItemPoints=3772,1390,3864,1349,3932,1382,3934,1429,3847,1426>
+<ItemWidth=10>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Nan Elmoth">
+<ItemType="Forrest">
+<ItemPoints=2785,1110,2830,1064,2891,1037,2913,1001,2934,1055,2911,1113,2842,1133>
+<ItemWidth=10>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Nan Tathren">
+<ItemType="Forrest">
+<ItemPoints=1668,2049,1674,1932,1712,1932,1741,1951,1771,1947,1818,1926,1846,1922,1861,1934,1908,2132,1889,2144,1860,2140,1812,2115,1785,2105,1679,2065>
+<ItemWidth=10>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Birchwoods of Nimbrethil">
+<ItemType="Forrest">
+<ItemPoints=1343,2353,1322,2332,1327,2307,1358,2303,1429,2268,1440,2246,1469,2235,1595,2229,1599,2264,1530,2308,1474,2303,1441,2324,1437,2343,1420,2367>
+<ItemWidth=10>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Forrest of Brethil">
+<ItemType="Forrest">
+<ItemPoints=1914,1254,1889,1210,1691,1179,1600,1063,1655,871,1792,860,1857,969,1917,1059,1977,1206,1973,1250>
+<ItemWidth=10>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Forrest of Neldoreth">
+<ItemType="Forrest">
+<ItemPoints=1997,1167,1969,1120,2039,908,2400,927,2383,1087,2339,1115,2196,1120,2092,1145>
+<ItemWidth=10>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Dwarf Road">
+<ItemType="Road">
+<ItemPoints=3918,1436,3840,1452,3760,1489,3629,1526,3488,1595,3414,1599,3372,1578,3346,1548>
+<ItemWidth=10>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Pass of Aglon">
+<ItemType="Land">
+<ItemPoints=2675,724,2921,604,2936,624,2798,704,2773,744,2683,758>
+<ItemWidth=39>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Arassiach">
+<ItemType="Bridge">
+<ItemPoints=2636,824>
+<ItemWidth=41>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Iant Iaur">
+<ItemType="Bridge">
+<ItemPoints=2432,905>
+<ItemWidth=46>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Gondolin">
+<ItemType="Land">
+<ItemPoints=1833,760,1780,733,1765,670,1801,618,1873,607,1923,635,1943,683,1917,747>
+<ItemWidth=10>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Tol Sirion">
+<ItemType="Island">
+<ItemPoints=1728,583,1736,562,1760,557,1745,579>
+<ItemWidth=10>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Barad Nimras">
+<ItemType="Village">
+<ItemPoints=495,1755>
+<ItemWidth=49>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Eglarest">
+<ItemType="City">
+<ItemPoints=787,1654>
+<ItemWidth=34>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Brithombar">
+<ItemType="Village">
+<ItemPoints=480,1566>
+<ItemWidth=47>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Vinymar">
+<ItemType="City">
+<ItemPoints=288,956>
+<ItemWidth=45>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Nargothrond">
+<ItemType="City">
+<ItemPoints=1401,1579>
+<ItemWidth=57>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Ringwil">
+<ItemType="River">
+<ItemPoints=1390,1538,1356,1539,1338,1539,1307,1538>
+<ItemWidth=10>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Sarn Anrad">
+<ItemType="City">
+<ItemPoints=3485,1593>
+<ItemWidth=54>
+<ItemDesc="Bridge over River Gelion">
+>
+<Item=
+<ItemName="Gates of Sirion">
+<ItemType="City">
+<ItemPoints=1765,1718>
+<ItemWidth=68>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Marches of Nevarast">
+<ItemType="Land">
+<ItemPoints=658,808,805,859,835,857,876,835,967,823,990,845,930,894,690,892,616,835>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Neverest">
+<ItemType="Land">
+<ItemPoints=730,645,773,693,772,743,912,758,992,800,1028,863,992,885,825,903,600,935,438,950,467,886,648,746,647,705>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Dor Lomin">
+<ItemType="Land">
+<ItemPoints=995,527,1131,505,1279,585,1355,656,1207,748,1010,679,919,676,870,585>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Lammoth">
+<ItemType="Land">
+<ItemPoints=322,306,334,274,387,273,409,265,439,274,482,253,580,479,554,519,480,487,435,468,426,457,412,456,394,446,370,458,362,441,361,402,342,367,334,331>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Mithrin">
+<ItemType="Land">
+<ItemPoints=1380,434,1464,405,1518,338,1569,383,1624,449,1625,516,1579,535,1538,527,1482,529,1458,546,1424,510,1382,494,1343,496,1304,461,1290,420>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="River Teiglin">
+<ItemType="RiverC">
+<ItemPoints=1962,1166,1947,1165,1919,1171,1901,1140,1875,1158,1835,1153,1799,1145,1780,1150,1759,1142,1736,1149,1714,1139,1689,1141,1656,1128,1619,1111,1599,1059,1572,1030,1555,983,1521,950,1500,860,1464,827,1449,806,1424,793,1404,774,1375,760,1359,744,1338,736>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="River Malduin">
+<ItemType="River">
+<ItemPoints=1542,661,1580,703,1583,730,1562,760,1570,783,1566,805,1575,825,1575,847,1556,886,1524,920>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="River Mindeb">
+<ItemType="River">
+<ItemPoints=2017,726,2006,747,1990,757,1982,775,1958,808,1975,866,1994,885,2006,929,1978,1015,1943,1088>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="River Asgalduin">
+<ItemType="River">
+<ItemPoints=2565,646,2571,661,2556,687,2555,711,2511,771,2496,806,2486,857,2440,884,2422,923,2406,1049,2406,1075,2395,1110,2341,1153,2309,1157,2255,1155,2241,1163,2198,1163,2136,1180,2080,1165,2015,1190,1993,1201>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="aa Left Down">
+<ItemType="Village">
+<ItemPoints=50,3034>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="aa Left Up">
+<ItemType="Village">
+<ItemPoints=30,27>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="aa Right Up">
+<ItemType="Village">
+<ItemPoints=4145,48>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="aa Right Down">
+<ItemType="Village">
+<ItemPoints=4139,3036>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+>

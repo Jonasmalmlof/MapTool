@@ -1,0 +1,116 @@
+<MapInfo=
+<MapName=Tol Eressa>
+>
+<ItemTypeList=
+<ItemType=
+<Name="Village">
+<Geometry="Point">
+<Color=clRed>
+>
+<ItemType=
+<Name="River">
+<Geometry="Curve">
+<Color=clRed>
+>
+<ItemType=
+<Name="Path">
+<Geometry="Curve">
+<Color=clRed>
+>
+<ItemType=
+<Name="New Type">
+<Geometry="Point">
+<Color=clRed>
+>
+<ItemType=
+<Name="Mountain">
+<Geometry="Area">
+<Color=clRed>
+>
+>
+<ItemList=
+<Item=
+<ItemName="Avalonne">
+<ItemType="Village">
+<ItemPoints=720,483>
+<ItemWidth=56>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Tovradel">
+<ItemType="Village">
+<ItemPoints=346,321>
+<ItemWidth=51>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Kerlirion">
+<ItemType="Village">
+<ItemPoints=564,319>
+<ItemWidth=52>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Alalrninbre">
+<ItemType="Mountain">
+<ItemPoints=515,268,539,258,583,254,618,257,628,296,635,338,618,376,593,358,568,365,593,389,580,401,527,388,497,377,486,339,490,295,508,288>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Path A7">
+<ItemType="Path">
+<ItemPoints=562,334,544,367,540,398,533,410,529,439,506,456,487,468,448,481>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Path A1">
+<ItemType="Path">
+<ItemPoints=545,325,489,318,464,321,435,314,401,307,378,317,363,319>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="River A2">
+<ItemType="River">
+<ItemPoints=584,369,601,384,604,404,613,414,616,426,631,431,633,446,625,461,654,472,664,484,677,491,682,506>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Path A3">
+<ItemType="Path">
+<ItemPoints=567,332,606,380,609,398,618,408,621,421,640,429,641,455,661,468,685,486,705,489>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Path A4">
+<ItemType="Path">
+<ItemPoints=796,239,814,262,841,311,836,361,818,384,816,421,779,470,772,501,758,510,740,491>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Path A5">
+<ItemType="Path">
+<ItemPoints=766,234,730,236,713,249,689,252,661,261,650,282,612,305,588,307,580,316>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Path A6">
+<ItemType="Path">
+<ItemPoints=578,167,576,185,567,192,575,204,570,226,570,237,557,243,546,264,550,310>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="River A1">
+<ItemType="River">
+<ItemPoints=347,338,334,346,321,356,297,364,288,388,262,401,262,425,251,431,260,448,241,454,251,474,245,490>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+>

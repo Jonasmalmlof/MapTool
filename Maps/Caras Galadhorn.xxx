@@ -1,0 +1,217 @@
+<MapInfo=
+<MapName=Caras Galadhorn>
+>
+<ItemTypeList=
+<ItemType=
+<Name="Wall">
+<Geometry="Line">
+<Color=clRed>
+>
+<ItemType=
+<Name="Stream">
+<Geometry="Line">
+<Color=clRed>
+>
+<ItemType=
+<Name="Site">
+<Geometry="Point">
+<Color=clRed>
+>
+<ItemType=
+<Name="Road">
+<Geometry="Line">
+<Color=clRed>
+>
+<ItemType=
+<Name="Orchard">
+<Geometry="Area">
+<Color=clRed>
+>
+<ItemType=
+<Name="Moat">
+<Geometry="Area">
+<Color=clRed>
+>
+<ItemType=
+<Name="Lawn">
+<Geometry="Area">
+<Color=clRed>
+>
+<ItemType=
+<Name="House">
+<Geometry="Point">
+<Color=clRed>
+>
+<ItemType=
+<Name="Hall">
+<Geometry="Point">
+<Color=clRed>
+>
+<ItemType=
+<Name="Gate">
+<Geometry="Point">
+<Color=clRed>
+>
+<ItemType=
+<Name="Garden">
+<Geometry="Area">
+<Color=clRed>
+>
+<ItemType=
+<Name="From Sky">
+<Geometry="Area">
+<Color=clRed>
+>
+<ItemType=
+<Name="Cross Section">
+<Geometry="Area">
+<Color=clRed>
+>
+<ItemType=
+<Name="Bridge">
+<Geometry="Point">
+<Color=clRed>
+>
+>
+<ItemList=
+<Item=
+<ItemName="01 White Stone Boundry Road">
+<ItemType="Road">
+<ItemPoints=574,738,652,726,736,689,812,619,863,523,881,433,869,338,832,250,767,177,673,122,563,104,467,117,378,161,308,237,270,303,251,369,244,438,257,500,282,570,329,633,393,690,470,723,557,739>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="02 Fosse (Dry Moat)">
+<ItemType="Moat">
+<ItemPoints=481,657,554,677,553,730,468,716,404,687,340,638,293,574,258,488,254,401,274,307,323,223,383,167,459,129,537,112,611,113,690,137,784,202,848,293,871,372,874,448,849,544,808,614,756,669,693,706,619,726,613,669,673,646,728,610,773,558,801,494,814,418,799,331,756,258,673,196,609,174,530,172,449,197,386,242,348,288,322,351,313,416,321,484,356,563,402,616>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="03 Gate Bridge">
+<ItemType="Bridge">
+<ItemPoints=562,712>
+<ItemWidth=56>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="04 Great Gates">
+<ItemType="Gate">
+<ItemPoints=562,679>
+<ItemWidth=43>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="05 Green Wall">
+<ItemType="Wall">
+<ItemPoints=537,686,469,668,412,633,353,579,312,493,301,401,328,303,373,246,426,198,512,163,589,159,668,181,732,219,776,267,809,323,827,398,821,482,787,561,742,611,677,661,603,681>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="06 South West Garden">
+<ItemType="Garden">
+<ItemPoints=382,520,407,560,444,594,422,629,376,587,348,549>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="07 North East Garden">
+<ItemType="Garden">
+<ItemPoints=712,221,751,259,783,303,747,322,721,282,686,249>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="08 Celeborn's Orhard">
+<ItemType="Orchard">
+<ItemPoints=443,201,464,235,426,260,393,294,366,269,399,230>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="09 Galadriel's Garden">
+<ItemType="Garden">
+<ItemPoints=757,582,718,620,672,645,653,611,695,587,729,556>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="10 House of Celeborn & Galadriel">
+<ItemType="House">
+<ItemPoints=562,468>
+<ItemWidth=68>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="11 High Lawn">
+<ItemType="Lawn">
+<ItemPoints=535,407,548,397,567,397,585,406,592,424,586,438,539,440,531,426>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="12 Fountain Stream">
+<ItemType="Stream">
+<ItemPoints=567,422,574,430,615,466,621,480,647,507,672,541,676,552,683,557,685,569,699,592,701,603,710,604,705,617,715,614,732,630,743,641,755,645,771,660,782,675,790,681,801,700,819,712,839,736,856,745,875,768,910,785,919,801,944,806,971,828>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="13 Warriors Hall">
+<ItemType="Hall">
+<ItemPoints=531,635>
+<ItemWidth=46>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="14 Armorers Hall">
+<ItemType="Hall">
+<ItemPoints=525,325>
+<ItemWidth=46>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="15 Mystic's Hall">
+<ItemType="Hall">
+<ItemPoints=704,491>
+<ItemWidth=42>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Caras Galadhorn">
+<ItemType="Cross Section">
+<ItemPoints=1073,834,1073,1117,434,1117,434,833>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Cerin Amroth">
+<ItemType="Cross Section">
+<ItemPoints=1073,1119,1073,1402,434,1402,434,1118>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Cerit Amroth">
+<ItemType="From Sky">
+<ItemPoints=433,830,429,1399,1,1399,3,829>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Arwens Grave">
+<ItemType="Site">
+<ItemPoints=228,1235>
+<ItemWidth=47>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Amroths' House">
+<ItemType="House">
+<ItemPoints=232,1106>
+<ItemWidth=172>
+<ItemDesc="No description">
+>
+>

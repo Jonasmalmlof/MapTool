@@ -1,0 +1,243 @@
+<MapInfo=
+<MapName=Planet>
+>
+<ItemTypeList=
+<ItemType=
+<Name="Sea">
+<Geometry="Area">
+<Color=clRed>
+>
+<ItemType=
+<Name="Mountain">
+<Geometry="Area">
+<Color=clRed>
+>
+<ItemType=
+<Name="Land">
+<Geometry="Area">
+<Color=clRed>
+>
+<ItemType=
+<Name="Lake">
+<Geometry="Area">
+<Color=clRed>
+>
+<ItemType=
+<Name="Island">
+<Geometry="Area">
+<Color=clRed>
+>
+<ItemType=
+<Name="Forrest">
+<Geometry="Area">
+<Color=clRed>
+>
+<ItemType=
+<Name="City">
+<Geometry="Point">
+<Color=clRed>
+>
+<ItemType=
+<Name="Bay">
+<Geometry="Area">
+<Color=clRed>
+>
+>
+<ItemList=
+<Item=
+<ItemName="Numenor">
+<ItemType="Island">
+<ItemPoints=470,864,456,838,473,813,511,804,512,791,483,789,467,769,464,743,486,724,522,728,553,722,581,699,607,686,637,686,656,694,644,733,698,728,709,741,713,774,685,796,720,808,725,829,717,855,692,869,642,849,586,850,563,845,540,868,508,877>
+<ItemWidth=80>
+<ItemDesc="The Numenor island (Westernesse)">
+>
+<Item=
+<ItemName="Trees of Valar">
+<ItemType="Forrest">
+<ItemPoints=230,619,186,612,164,593,170,575,185,576,190,567,183,543,198,540,227,557,245,576,240,589,219,580,218,596>
+<ItemWidth=30>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Mordor">
+<ItemType="Mountain">
+<ItemPoints=1037,568,1021,484,1037,477,1068,483,1146,476,1169,527,1161,558,1104,583>
+<ItemWidth=30>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Eriador">
+<ItemType="Land">
+<ItemPoints=911,307,944,321,922,377,864,394,804,368,791,328,800,307>
+<ItemWidth=30>
+<ItemDesc="">
+>
+<Item=
+<ItemName="Rohan">
+<ItemType="Land">
+<ItemPoints=978,428,988,449,986,470,963,488,923,468,910,472,883,470,858,460,841,470,844,452,843,433,856,416,866,397,921,380,914,416>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Gondor">
+<ItemType="Land">
+<ItemPoints=924,474,965,493,993,471,1016,493,1024,524,1029,568,1042,576,1038,606,1013,606,988,612,976,606,973,583,988,558,971,553,951,565,939,540,947,527,906,523,868,541,851,536,825,546,848,516,844,474,859,467,872,473,887,477>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Rhvanion">
+<ItemType="Land">
+<ItemPoints=1038,349,1063,363,1087,365,1086,450,1118,473,1070,478,1035,473,1014,484,999,467,994,426,976,405,983,395,987,354,973,294,1002,312,1028,316>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Rhun">
+<ItemType="Land">
+<ItemPoints=1108,347,1213,349,1242,366,1245,402,1264,439,1266,461,1290,476,1161,495,1146,471,1124,472,1090,446,1090,382>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Tol Fuin">
+<ItemType="Sea">
+<ItemPoints=688,200,711,185,738,186,766,163,783,168,796,228,758,238,737,259,713,252,686,254,673,274,650,298,593,289,582,231,615,208,622,222>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Araman">
+<ItemType="Land">
+<ItemPoints=524,224,530,249,501,304,435,379,376,451,329,600,305,485,286,435,314,396,382,322,459,260>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Tol Eresa">
+<ItemType="Island">
+<ItemPoints=302,944,332,939,327,972,281,992,280,965>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Enchanted Isles">
+<ItemType="Island">
+<ItemPoints=382,718,370,575,388,493,422,595,435,722,432,838,422,1002,373,1105,277,1247,287,1145,342,1078,370,998,384,918>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Lake of Lorellill">
+<ItemType="Lake">
+<ItemPoints=137,1085,178,1087,172,1112,139,1124,120,1123,113,1096>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Aule Mt.">
+<ItemType="Mountain">
+<ItemPoints=132,1092,156,1094,177,1100,187,1121,129,1126,114,1111>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Tirion">
+<ItemType="City">
+<ItemPoints=262,990>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Valimar">
+<ItemType="City">
+<ItemPoints=208,993>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Pelori">
+<ItemType="Mountain">
+<ItemPoints=232,1187,232,1130,217,1067,218,988,263,988,253,1082,270,1118,263,1192,240,1295,240,1368,237,1423,203,1368>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Avathar">
+<ItemType="Land">
+<ItemPoints=252,1398,262,1425,257,1455,183,1340,138,1200,173,1122,223,1107,278,1102,267,1223,250,1303,253,1365>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Bay of Belfalas">
+<ItemType="Bay">
+<ItemPoints=912,548,931,580,951,597,943,610,906,623,896,656,868,678,843,693,830,708,792,671,769,630,772,580,810,562,823,567,852,558,875,563>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Umbar">
+<ItemType="Land">
+<ItemPoints=952,647,941,646,929,644,917,653,921,638,938,636,956,629,973,614,988,619,1016,613,1033,613,1015,669,1003,713,933,713,898,682,916,664,932,663,949,659>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Foroth Waith">
+<ItemType="Land">
+<ItemPoints=885,153,910,152,995,171,1028,175,1039,165,1090,175,1113,202,1136,209,1138,255,1133,281,1107,288,1078,285,1052,265,1023,265,992,275,968,272,925,264,914,271,893,233,908,211,907,169>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Dark Island">
+<ItemType="Land">
+<ItemPoints=1456,642,1496,716,1526,825,1527,854,1521,884,1535,910,1537,1001,1535,1102,1516,1169,1494,1229,1501,1248,1484,1316,1465,1358,1399,1421,1362,1528,1339,1697,1273,1735,1224,1762,1155,1785,1030,1817,954,1825,940,1834,908,1822,875,1831,863,1821,825,1825,805,1814,781,1817,751,1803,644,1774,550,1728,603,1735,709,1755,776,1746,831,1736,864,1722,887,1677,879,1622,863,1575,937,1556,1001,1534,1059,1502,1131,1448,1179,1429,1288,1295,1298,1258,1313,1245,1332,1145,1353,1112,1381,1099,1384,1076,1369,1075,1413,981,1395,938,1408,906,1429,911,1444,904,1434,887,1439,826,1422,807,1425,772,1440,746,1450,690,1445,651>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Walls Of The Sun">
+<ItemType="Land">
+<ItemPoints=1577,485,1672,632,1707,767,1725,920,1715,1110,1662,1270,1610,1185,1607,917,1612,772>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="East Sea">
+<ItemType="Sea">
+<ItemPoints=1322,237,1475,345,1570,465,1552,512,1573,577,1582,723,1597,802,1598,972,1602,1080,1598,1177,1623,1242,1662,1290,1622,1372,1558,1478,1495,1560,1437,1615,1380,1672,1360,1673,1382,1587,1377,1538,1407,1492,1408,1445,1458,1410,1497,1343,1520,1257,1508,1230,1558,1110,1560,987,1560,850,1522,687,1495,628,1448,613,1482,583,1500,537,1480,485,1487,418,1440,343,1403,325,1370,282>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Khand">
+<ItemType="Land">
+<ItemPoints=1295,479,1319,519,1306,564,1317,585,1308,614,1294,626,1270,594,1205,549,1167,553,1174,527,1163,497>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Farad">
+<ItemType="Land">
+<ItemPoints=1165,557,1205,556,1265,595,1296,634,1267,624,1226,651,1219,692,1222,742,1237,756,1222,801,1217,756,1187,765,1135,760,1086,716,1073,699,1049,687,1020,673,1036,618,1045,604,1046,576,1104,588>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Grey Mountains">
+<ItemType="Mountain">
+<ItemPoints=900,692,929,718,900,739,867,784,861,835,879,896,920,943,921,958,903,966,881,959,835,887,814,824,823,768,853,722>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+<Item=
+<ItemName="Arnor">
+<ItemType="Land">
+<ItemPoints=807,249,808,264,840,266,840,250,862,254,869,235,889,232,912,275,939,292,907,304,741,305,755,286,752,275,768,255>
+<ItemWidth=30>
+<ItemDesc="No description">
+>
+>
