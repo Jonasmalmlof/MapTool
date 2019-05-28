@@ -2,7 +2,7 @@
 
 MapTool is a program for marking locations on a map with descriptions. 
 
-Originally created by Peter Malmlöf (http://www.github.com/PeterMalmlof), released as Opensource after his passing by his three sons Nicklas, Jonas and Mattias.
+Originally created by Peter Malmlöf (http://www.gitlab.com/PeterMalmlof), released as Opensource after his passing by his three sons Nicklas, Jonas and Mattias.
 
 # Changelog
 
