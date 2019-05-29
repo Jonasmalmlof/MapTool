@@ -1,5 +1,6 @@
 # Map Tool  
 MapTool is a program for marking locations on a map with descriptions.  
+Also contains detailed maps of Middle Earth.  
 Originally created by Peter Malmlöf (http://www.gitlab.com/PeterMalmlof), released as Opensource after his passing by his three sons Nicklas, Jonas and Mattias.
 
 # Changelog  
