@@ -1,17 +1,16 @@
-# Map Tool
-
-MapTool is a program for marking locations on a map with descriptions. 
-
+# Map Tool  
+MapTool is a program for marking locations on a map with descriptions.  
 Originally created by Peter Malmlöf (http://www.gitlab.com/PeterMalmlof), released as Opensource after his passing by his three sons Nicklas, Jonas and Mattias.
 
-# Changelog
+# Changelog  
+Now works with Windows 10.  
+Moved the source-files to their own folder.
 
-Now works with Windows 10.
+# To Do  
+1 relative pathing for files... alternatively, if the last file worked on doesn't exist anymore, forgo error message and just open 'open file'dialog.  
+2 zooming in and out with mousewheel.  
+3 If the map that was loaded last time no longer exists, show "open..."-dialog instead of an error-message.
 
-# To Do
+# Current Errors:  
 
-1 relative pathing for files... alternatively, if the last file worked on doesn't exist anymore, forgo error message and just open 'open file'dialog.
-
-2 zooming in and out with mousewheel.
-
-3 click-dragging.
+Exiting the program without opening a map gives seven error messages.
